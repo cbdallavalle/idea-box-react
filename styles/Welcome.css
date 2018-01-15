@@ -1,0 +1,30 @@
+.Welcome {
+  background-color: #E5F3F2;
+  width: 100%;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+h1 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 3.5em;
+  margin: 40px 0 30px 0;
+  letter-spacing: -1px;
+}
+
+button {
+  width: 21.3em;
+  height: 2em;
+  font-size: 1.3em;
+  margin: 10px;
+  border: none;
+  background-color: #00A79D;
+  color: white;
+}
+
+span {
+  color: #00A79D;
+}

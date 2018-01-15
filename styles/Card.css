@@ -1,0 +1,31 @@
+article {
+  width: 450px;
+  position: relative;
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.card-button {
+  width: 30px;
+  height: 30px;
+  border-radius: 18px;
+}
+
+.card-button:hover {
+  background-color: magenta;
+}
+
+#upvote {
+  background-color: green;
+}
+
+#downvote {
+  background-color: red;
+}
+
+#delete {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+}
